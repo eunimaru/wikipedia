@@ -1,0 +1,11 @@
+.column1{
+  width: 300px;
+  float:left;
+}
+.column2{
+  width: 300px;
+  float:right;
+}
+.nav sidebar {
+  align-content: flex-start;
+}
